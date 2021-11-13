@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {    
+    font-family: sans-serif;
+    margin: 3rem;
+    background-color: #911717;    
+}
+
+h1, h2 {
+    color: #3c4042;
+}
+
+h3 {
+    font-size: 80px;
+    text-align: center;
+    color: aqua;
+}
+.app {
+    margin: 3rem auto;
+    width: 90%;
+}
+
+.name {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(202, 31, 31, 0.2);
+    padding: 1rem;
+    width: 70rem;    
+    margin: 3rem auto;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.clock {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    width: 70rem;    
+    margin: 3rem auto;    
+    display: flex;
+    justify-content: center;
+}
